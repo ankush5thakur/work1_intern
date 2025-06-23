@@ -1,0 +1,4 @@
+# it'll contain all the lib that i will use
+python-dotenv
+pandas
+numpy

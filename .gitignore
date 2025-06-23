@@ -1,0 +1,3 @@
+venv
+.env
+# when i go to repo this folder should not be taken some api key username and password etc
